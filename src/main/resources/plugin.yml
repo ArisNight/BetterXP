@@ -1,0 +1,10 @@
+name: BetterXP
+version: '${project.version}'
+main: com.arisnight.betterxp.BetterXP
+api-version: '1.21'
+website: 'https://github.com/ArisNight'
+authors:
+  - ArisNight
+commands:
+  reload:
+    usage: /bxp reload
